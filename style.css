@@ -3,3 +3,34 @@
       color: red;
       font-size: 10px;
     }
+    
+ .kiyoharu {
+  display: flex;
+  
+ }   
+ 
+ .kiyoharu0 img {
+  margin-right:50px;
+  width: 200px;
+  height:200px;
+  border: 3px solid red;
+ }
+ 
+ .kiyoharu1 img {
+  width: 200px;
+  height: 200px;
+  border:3px solid green;
+ }
+
+.kiyoharuhat {
+ display: flex;
+}
+
+.kiyoharuhat0 {
+margin-right: 170px;
+background-color: red;
+}
+
+.kiyoharuhat1 {
+ background-color: pink;
+}
